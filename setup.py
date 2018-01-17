@@ -10,12 +10,12 @@ def requirements():
 
 
 def long_description():
-    with open('README.rst', 'r') as fileobj:
+    with open('README.rst', 'r', encoding='utf-8') as fileobj:
         return fileobj.read()
 
 
 setup(
-    name='cospy3',
+    name='cos-py3-sdk-v5',
     version='1.0.0',
     url='',
     license='MIT',

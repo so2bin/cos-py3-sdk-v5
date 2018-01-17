@@ -15,13 +15,13 @@ def long_description():
 
 
 setup(
-    name='cos-python-sdk-v5',
-    version='1.3.0',
-    url='https://www.qcloud.com/',
+    name='cos-py3-sdk-v5',
+    version='1.0.0',
+    url='',
     license='MIT',
-    author='tiedu, lewzylu, channingliu',
-    author_email='dutie123@qq.com',
-    description='cos-python-sdk-v5',
+    author='heli',
+    author_email='mmm@qq.com',
+    description='cos-py3-sdk-v5',
     long_description=long_description(),
     packages=find_packages(),
     install_requires=requirements()

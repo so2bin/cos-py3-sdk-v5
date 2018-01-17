@@ -15,7 +15,7 @@ def long_description():
 
 
 setup(
-    name='cos-py3-sdk-v5',
+    name='cospy3',
     version='1.0.0',
     url='',
     license='MIT',
